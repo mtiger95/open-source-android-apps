@@ -48,7 +48,7 @@ A curated list of open-source tools for note-taking, file management, task track
 | [**todo.txt**](https://github.com/todotxt/todo.txt-android) | The official Android app for managing your `todo.txt` file via Dropbox. | `Java` | `GPL-3.0` | 1.2k | — |
 | [**ToGoZip**](https://github.com/k3b/ToGoZip) | Adds an "Add to Zip" option to Android's share menu. | `Java` | `GPL-3.0` | 65 | [![F-Droid](https://f-droid.org/badge/get-it-on.svg)](https://f-droid.org/packages/de.k3b.android.toGoZip) |
 | [**tudounotepad**](https://github.com/geminiwen/tudounotepad) | A simple Notepad application developed using Kotlin. | `Kotlin` | `Apache-2.0` | 110 | — |
-| [**Turbo Editor**](https://github.com/vmihalachi/turbo-editor) | A simple, powerful, and open-source text editor for Android. | `Java` | `GPL-3.0` | 1.3k | — |
+| [**Turbo Editor**](https://github.com/vmihalachi/turbo-editor) | A simple, powerful, and open-source text editor for Android. | `Java` | `GPL-3.0` | 1.4k | — |
 | [**VertiKin**](https://github.com/prabhakar267/vertikin) | A platform to automatically detect what a user might be interested in buying. | `Python` | `MIT` | 81 | — |
 
 ---
