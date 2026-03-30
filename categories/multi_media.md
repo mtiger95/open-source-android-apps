@@ -12,7 +12,7 @@ A curated list of open-source players, galleries, clients, and other multi-media
 | [**AnimeTaste**](https://github.com/daimajia/AnimeTaste) | An app for discovering and watching original animations from around the world. (Archived) | `Java` | `MIT` | 1.6k | — |
 | [**AntennaPod**](https://github.com/AntennaPod/AntennaPod) | A powerful and flexible podcast manager for Android. | `Java` | `GPL-3.0` | 7.8k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=de.danoeh.antennapod) |
 | [**Apollo**](https://github.com/CyanogenMod/android_packages_apps_Apollo) | The classic, highly customizable music player from CyanogenMod. (Archived) | `Java` | `Apache-2.0` | 261 | — |
-| [**Auro**](https://github.com/architjn/Auro) | A fast, modern, open-source music player for Android. | `Java` | `GPL-3.0` | 791 | — |
+| [**Auro**](https://github.com/architjn/Auro) | A fast, modern, open-source music player for Android. | `Java` | `GPL-3.0` | 790 | — |
 | [**Aves**](https://github.com/deckerst/aves) | A gallery and metadata explorer app built for Android with Flutter. | `Dart` | `BSD-3-Clause` | 4.6k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=deckers.thibault.aves) |
 | [**Awkward Ratings**](https://github.com/nasahapps/AwkwardRatings-Android) | Shows a list of movies that might be awkward to watch with your parents. | `Java` | Not specified | 30 | — |
 | [**Bandhook-Kotlin**](https://github.com/antoniolg/Bandhook-Kotlin) | A showcase music app written entirely in Kotlin to demonstrate its features. | `Kotlin` | `Apache-2.0` | 1.9k | — |
@@ -49,7 +49,7 @@ A curated list of open-source players, galleries, clients, and other multi-media
 | [**spydroid-ipcamera**](https://github.com/fyhertz/spydroid-ipcamera) | An app that streams your phone's camera and microphone to a browser or VLC. | `Java` | `GPL-3.0` | 2.0k | — |
 | [**StickerCamera**](https://github.com/Skykai521/StickerCamera) | A camera application that allows you to add stickers to your photos. | `Java` | `Apache-2.0` | 3.2k | — |
 | [**Telecine**](https://github.com/JakeWharton/Telecine) | A simple app for recording full-resolution video of your device's screen. | `Java` | `Apache-2.0` | 2.5k | — |
-| [**Timber**](https://github.com/naman14/Timber) | A beautiful, fully-featured Material Design music player. | `Java` | `GPL-3.0` | 7.1k | — |
+| [**Timber**](https://github.com/naman14/Timber) | A beautiful, fully-featured Material Design music player. | `Java` | `GPL-3.0` | 7.0k | — |
 | [**Track My Shows**](https://github.com/chashmeetsingh/TrackMyShows) | A simple app for tracking your favorite TV shows. (Archived) | `Java` | `GPL-3.0` | 11 | — |
 | [**Twire**](https://github.com/Perflyst/Twire) | An open-source, ad-free Twitch browser and stream player for Android. | `Java` | `GPL-3.0` | 5 | [![F-Droid](https://f-droid.org/badge/get-it-on.svg)](https://f-droid.org/packages/com.perflyst.twire) |
 | [**UniversalMusicPlayer**](https://github.com/android/uamp) | A Google sample demonstrating a cross-platform audio media app. | `Kotlin` | `Apache-2.0` | 13.2k | — |
