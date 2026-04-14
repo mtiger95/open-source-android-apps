@@ -23,7 +23,7 @@
 | App Name | Description | ⭐ Stars |
 | :--- | :--- | :---: |
 | [**Joplin**](https://github.com/laurent22/joplin) | A markdown-based note-taking app with sync and end-to-end encryption. | 54.3k |
-| [**v2rayNG**](https://github.com/2dust/v2rayNG) | A V2Ray client for Android, supporting Xray and v2fly cores. | 53.9k |
+| [**v2rayNG**](https://github.com/2dust/v2rayNG) | A V2Ray client for Android, supporting Xray and v2fly cores. | 54.0k |
 | [**Termux**](https://github.com/termux/termux-app) | A powerful terminal emulator and Linux environment for Android. | 53.3k |
 | [**Rocket.Chat**](https://github.com/RocketChat/Rocket.Chat) | A self-hostable, Slack-like online chat platform. | 45.1k |
 | [**NewPipe**](https://github.com/TeamNewPipe/NewPipe) | A lightweight, privacy-friendly YouTube frontend for Android. | 37.8k |
@@ -43,7 +43,7 @@
 | [**UniversalMusicPlayer**](https://github.com/android/uamp) | A Google sample demonstrating a cross-platform audio media app. | 13.2k |
 | [**Minetest**](https://github.com/luanti-org/luanti) | An open-source infinite-world block sandbox game with survival and crafting. | 12.7k |
 | [**Aegis Authenticator**](https://github.com/beemdevelopment/Aegis) | A free, secure, and open-source app to manage your 2-step verification tokens. | 12.3k |
-| [**GitHub Store**](https://github.com/OpenHub-Store/GitHub-Store) | Github Store is a cross‑platform “play store” for GitHub releases. It discovers repositories that ship real installable binaries and lets you install, track, and update them across platforms from one place. | 11.4k |
+| [**GitHub Store**](https://github.com/OpenHub-Store/GitHub-Store) | Github Store is a cross‑platform “play store” for GitHub releases. It discovers repositories that ship real installable binaries and lets you install, track, and update them across platforms from one place. | 11.5k |
 | [**AnkiDroid**](https://github.com/ankidroid/Anki-Android) | A powerful, intelligent flashcard app that uses spaced repetition. | 11.0k |
 ## 🗂️ Categories
 
